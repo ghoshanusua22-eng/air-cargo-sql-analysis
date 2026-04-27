@@ -4,7 +4,7 @@ SQL-based analysis of the Air Cargo aviation dataset to optimize flight routes, 
 
 ## Project Overview
 An end-to-end SQL analysis project on Air Cargo 
-aviation dataset using MySQL Workbench — covering 
+aviation dataset using MySQL Workbench covering 
 50 customers, 49 routes across 4 interconnected 
 tables with 16 advanced MySQL queries.
 
