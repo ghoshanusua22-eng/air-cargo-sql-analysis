@@ -55,5 +55,6 @@ tables with 16 advanced MySQL queries.
 ## Certification
 Data Acquisition and Manipulation using SQL
 Simplilearn | April 2026 | Code: 10143314
- MySQL, Joins, and Window Functions
- https://drive.google.com/file/d/1OUEGnpA0uuJD0RLLF7ReHjPGW0uqtj5i/view?usp=sharing
+MySQL, Joins, and Window Functions
+https://drive.google.com/file/d/1t9F65o-_qUYkqL7Ap0NOdUwWHG5aJCdK/view?usp=sharing
+## Link of the project - https://drive.google.com/file/d/1OUEGnpA0uuJD0RLLF7ReHjPGW0uqtj5i/view?usp=sharing
